@@ -1,6 +1,6 @@
 ﻿<img align="right" src="https://komarev.com/ghpvc/?username=Nihtin3003&color=blue"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohmmad+Ayesh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nithin+M+S!;" />
 </h1>
 <h4 align="center">A Full Stack Developer with expertise in Python (Flask), React, SQL, and AI integration. I build robust APIs, integrate machine learning/deep learning models for computer vision and data analysis, and craft engaging user interfaces. Focused on delivering innovative, data-driven solutions</h4>
 <br/>
